@@ -1,0 +1,2 @@
+
+const kAppName = 'JL Market';
