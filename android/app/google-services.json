@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "993510733864",
-    "project_id": "jlmarketapp",
-    "storage_bucket": "jlmarketapp.appspot.com"
+    "project_number": "402217072963",
+    "project_id": "jl-market-app-284f1",
+    "storage_bucket": "jl-market-app-284f1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:993510733864:android:fe4b17406b19c642b6dd1d",
+        "mobilesdk_app_id": "1:402217072963:android:825135497c8fa899f9d7f6",
         "android_client_info": {
           "package_name": "com.example.jlmarketapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "993510733864-so19gpl8e758nfe7qk4rugmf9csdsgk8.apps.googleusercontent.com",
+          "client_id": "402217072963-tp8f0kcv38k6fqana8fnanc4oasiasec.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDkCe5iMUOxjL80SYTmAxkbXyEDTt9JLXg"
+          "current_key": "AIzaSyCnQWP4Mei6gQedoGDaRP_paIifQp2MC9Y"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "993510733864-so19gpl8e758nfe7qk4rugmf9csdsgk8.apps.googleusercontent.com",
+              "client_id": "402217072963-tp8f0kcv38k6fqana8fnanc4oasiasec.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
